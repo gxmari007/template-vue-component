@@ -8,3 +8,9 @@ Template for develop vue component.
 - 📦 [Vite](https://github.com/vitejs/vite) - build library
 - 🗃 [pnpm](https://github.com/pnpm/pnpm) - package management
 - 🎨 Use [Typescript](https://github.com/microsoft/TypeScript)
+
+## Usage
+
+```bash
+npx degit git@github.com:gxmari007/template-vue-component.git
+```
