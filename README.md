@@ -4,5 +4,7 @@ Template for develop vue component.
 
 ## Features
 
-- 🚨 Lint code use ESLint
-- 📦 Vite to build library
+- 🚨 [ESLint](https://github.com/eslint/eslint) - lint code
+- 📦 [Vite](https://github.com/vitejs/vite) - build library
+- 🗃 [pnpm](https://github.com/pnpm/pnpm) - package management
+- 🎨 Use [Typescript](https://github.com/microsoft/TypeScript)
