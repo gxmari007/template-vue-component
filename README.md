@@ -6,7 +6,7 @@ Template for develop vue component.
 
 - 🚨 [ESLint](https://github.com/eslint/eslint) - lint code
 - 📦 [Vite](https://github.com/vitejs/vite) - build library
-- 🗃 [pnpm](https://github.com/pnpm/pnpm) - package management
+- 🗃 [pnpm](https://github.com/pnpm/pnpm) - fast, disk space efficient package manager
 - 💪 Use [Typescript](https://github.com/microsoft/TypeScript)
 
 ## Usage
