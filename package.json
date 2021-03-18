@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "main": "./dist/template-vue-component.umd.js",
   "module": "./dist/template-vue-component.es.js",
+  "types": "./types/index.d.ts",
   "exports": {
     ".": {
       "import": "./dist/template-vue-component.es.js",
@@ -11,7 +12,7 @@
   },
   "scripts": {
     "lint": "eslint src",
-    "build": "vite build",
+    "build": "tsc && vite build",
     "prepublishOnly": "npm run build",
     "release": "standard-version"
   },
