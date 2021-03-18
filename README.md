@@ -20,5 +20,13 @@ Template for develop vue component.
 ```bash
 git clone git@github.com:gxmari007/template-vue-component.git
 # or need cleaner git history (recommend this way)
-npx degit git@github.com:gxmari007/template-vue-component.git
+```
+
+Or need cleaner git history, `recommend this way`
+
+```bash
+npx degit git@github.com:gxmari007/template-vue-component.git my-component
+cd my-component
+# if you don't hava pnpm, please run npm i -g pnpm first
+pnpm install
 ```
